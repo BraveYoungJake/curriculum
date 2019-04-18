@@ -88,6 +88,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 
 * Add your solution below this list
 
+* [Jake Young's Solution (Easy)] (https://github.com/BraveYoungJake/google-homepage) - [View in Browser](https://braveyoungjake.github.io/google-homepage/) 
 * [Jose Salvador's Solution (Easy)](https://github.com/Jsalvadorpp/google-homepage) - [View in Browser](https://jsalvadorpp.github.io/google-homepage/)
 * [Jose Salvador's Solution (Difficult)](https://github.com/Jsalvadorpp/google-results-page) - [View in Browser](https://jsalvadorpp.github.io/google-results-page/)
 * [bcikota's Solution (Easy)](https://bcikota.github.io/google-homepage/) - [View in Browser](https://github.com/bcikota/google-homepage) - [bcikota's Solution (Difficult)](https://bcikota.github.io/google-search/) - [View in Browser](https://github.com/bcikota/google-search)
@@ -2091,6 +2092,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Sanyogita's Solution (Hard)](https://github.com/SanyogitaPandit/google_homepage) - [View in Browser](https://sanyogitapandit.github.io/google_homepage/)
 * [Minimal's Solution (Easy)](https://github.com/ivahub/google-homepage) - [View in Browser](https://ivahub.github.io/google-homepage/)
 * [Minimal's Solution (Difficult)](https://github.com/ivahub/google-results/) - [View in Browser](https://ivahub.github.io/google-results/)
+
 </details>
 
 ### Additional Resources
