@@ -39,6 +39,7 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
   <summary> Show Student Solutions </summary>
 
 - Add your solution below this line!
+- [Jake Young's Solution](https://github.com/BraveYoungJake/rock-paper-sicssors-) - [View in Browser] (https://braveyoungjake.github.io/rock-paper-scissors/)
 - [Obert Makaza's Solution](https://github.com/omakazagit/rock-paper-scissors) - [View in Browser](https://github.com/omakazagit/rock-paper-scissors)
 - [Edison Escobar's Solution](https://github.com/Jhoneguitar/rock_paper_scissors) - [View In Browser](https://jhoneguitar.github.io/rock_paper_scissors/) 
 - [Neill Henning's Solution](https://github.com/Rabidza/rock-paper-scissors) - [View In Browser](https://rabidza.github.io/rock-paper-scissors/)
